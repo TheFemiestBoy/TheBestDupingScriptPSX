@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheFemiestBoy/DupeingPsx/main/DupePsxScript", true))()
